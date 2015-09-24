@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<path>
+	<route>
+		<id>1/01</id>
+		<name>Prosperita - Cimbasia</name>
+		<fare>N$ 6.00</fare>
+	</route>
+	<route>
+		<id>1/02</id>
+		<name>Academia - Pioneers - Hochland park - Otjomuise - Wanaheda </name>
+		<fare>N$ 6.00</fare>
+	</route>
+	<route>
+		<id>1/03</id>
+		<name>Robert Mugabe - Shandumbala - Okuryangava - Ombili</name>
+		<fare></fare>
+	</route>
+	<route>
+		<id>1/04</id>
+		<name>Wanaheda - Soweto - Windhoek North CBD</name>
+		<fare>N$ 6.00</fare>
+	</route>
+	<route>
+		<id>1/05</id>
+		<name></name>
+		<fare>N$ 6.00</fare>
+	</route>
+	<route>
+		<id>1/06</id>
+		<name></name>
+		<fare>N$ 6.00</fare>
+	</route>
+</path>

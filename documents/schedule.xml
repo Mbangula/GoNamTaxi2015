@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable>
+	<schedule>
+		<id></id>
+		<origin></origin>
+		<destination></destination>
+		<departures></departures>
+		<arrival></arrival>
+	</schedule>
+</timetable>

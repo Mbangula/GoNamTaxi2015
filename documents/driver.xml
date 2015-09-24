@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bus_driver>
+	<driver>
+		<id></id>
+		<idbus></idbus>
+		<name>
+			<first></first>
+			<middle></middle>
+			<last></last>
+		</name>
+		<address>
+			<residential></residential>
+			<postal></postal>
+		</address>
+		<contact_details>
+			<home></home>
+			<mobile></mobile>
+		</contact_details>
+	</driver>
+</bus_driver>

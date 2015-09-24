@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bus_frequency>
+	<bus>
+		<id>10AS</id>
+		<origin>Wernhnill Mall</origin>
+		<destination>Women Center</destination>
+		<frequency>01:00</frequency>
+	</bus>
+	<bus>
+		<id>10L</id>
+		<origin>Women Center</origin>
+		<destination>Wernhill</destination>
+		<frequency>01:00</frequency>
+	</bus>
+	<bus>
+		<id>10KV</id>
+		<origin>Suiderhof</origin>
+		<destination>Ombili</destination>
+		<frequency>00:30</frequency>
+	</bus>
+	<bus>
+		<id>10KP</id>
+		<origin>Ombili</origin>
+		<destination>Suiderhof</destination>
+		<frequency>00:15</frequency>
+	</bus>
+	<bus>
+		<id>10KJ</id>
+		<origin>Robert Mugabe</origin>
+		<destination>Havana</destination>
+		<frequency>00:15</frequency>
+	</bus>
+	<bus>
+		<id>10L</id>
+		<origin>Havana</origin>
+		<destination>Robert Mugabe</destination>
+		<frequency>03:00</frequency>
+	</bus>
+	<bus>
+		<id>10K</id>
+		<origin>Goreangab</origin>
+		<destination>Wernhill</destination>
+		<frequency>00:45</frequency>
+	</bus>
+	<bus>
+		<id>10KL</id>
+		<origin>Wernill</origin>
+		<destination>Goreangab</destination>
+		<frequency>00:55</frequency>
+	</bus>
+	<bus>
+		<id>17/226</id>
+		<origin>Marua Mall</origin>
+		<destination>Wanaheda</destination>
+		<frequency>01:15</frequency>
+	</bus>
+	<bus>
+		<id>17/227</id>
+		<origin>Wanaheda</origin>
+		<destination>Marua Mall</destination>
+		<frequency>01:15</frequency>
+	</bus>
+</bus_frequency>

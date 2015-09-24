@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bus_Stop>
+
+    <stop>
+        <id>B1</id>
+        <name>NFA Soccer House bus stop</name>
+		<latitude>-22.5</latitude>
+		<longitude>-17.05</longitude>
+        <location>Police Kamp</location>
+    </stop>
+	<stop>
+        <id>B2</id>
+        <name>Katutura bus stop</name>
+		<latitude>-22.5</latitude>
+		<longitude>17.0</longitude>
+        <location>Herero</location>
+    </stop>
+	<stop>
+        <id>B3</id>
+        <name>B3 Herero bus stop</name>
+		<latitude>-22.527984619140625</latitude>
+		<longitude>17.053117752075195</longitude>
+        <location>Herero</location>
+    </stop>
+	<stop>
+        <id>B4</id>
+        <name>Single quarters Engine Service</name>
+		<latitude>-22.53233268</latitude>
+		<longitude>17.04952635</longitude>
+        <location>Single Quarters</location>
+    </stop>
+	<stop>
+        <id>B5</id>
+        <name>Council of Church Namibia bus stop</name>
+		<latitude>-22.314266204833984</latitude>
+		<longitude>17.023405075073242</longitude>
+        <location>Grysblock</location>
+    </stop>
+	<stop>
+        <id>B6</id>
+        <name>Otjikaendu bus stop</name>
+		<latitude>-22.517393112182617</latitude>
+		<longitude>17.04051399230957</longitude>
+        <location>Wanaheda</location>
+    </stop>
+	<stop>
+        <id>B7</id>
+        <name>Wanaheda stop</name>
+		<latitude>-22.517393112182617</latitude>
+		<longitude>17.04051399230957</longitude>
+        <location>Wanaheda</location>
+    </stop>
+	<stop>
+        <id>B8</id>
+        <name>A Shipena bus stop</name>
+		<latitude>-22.514413833618164</latitude>
+		<longitude>17.04323387145996</longitude>
+        <location>Soweto</location>
+    </stop>
+	<stop>
+        <id>B9</id>
+        <name>Golgota 14 bus stop</name>
+		<latitude>-22.515127182006836</latitude>
+		<longitude>17.052745819091797</longitude>
+        <location>Golgota 14</location>
+    </stop>
+	<stop>
+        <id>B12</id>
+        <name>Wambo lokasie bus stop</name>
+		<latitude>22.52018082</latitude>
+		<longitude>17.06271082</longitude>
+        <location>Owambo</location>
+    </stop>
+	<stop>
+        <id>B14</id>
+        <name>Damara bus stop</name>
+		<latitude>22.52295221</latitude>
+		<longitude>17.05579</longitude>
+        <location>Damara</location>
+    </stop>
+	<stop>
+        <id>B15</id>
+        <name>Miami service bus stop (Right)</name>
+		<latitude>22.52600274</latitude>
+		<longitude>17.05453216</longitude>
+        <location>Nama</location>
+    </stop>
+	<stop>
+        <id>B16</id>
+        <name>Swapo HQ bus stop</name>
+		<latitude>22.53233268</latitude>
+		<longitude>17.04952635</longitude>
+        <location>Katutura central</location>
+    </stop>
+	<stop>
+        <id>B17</id>
+        <name>Katutura state hospital bus stop</name>
+		<latitude>22.53368331</latitude>
+		<longitude>17.06628985</longitude>
+        <location>Katutura central</location>
+    </stop>
+
+	<stop>
+        <id>B18</id>
+        <name>Katutura Pick n Pay bus stop</name>
+		<latitude>-22.52789912</latitude>
+		<longitude>17.05629283</longitude>
+        <location>Herero</location>
+    </stop>
+	<stop>
+        <id>B19</id>
+        <name>Yetu Yama (Namcol) bus stop</name>
+		<latitude>22.52652169</latitude>
+		<longitude>17.04810573</longitude>
+        <location>Soweto</location>
+    </stop>
+	<stop>
+        <id>B20</id>
+        <name>John Otto Field bus stop</name>
+		<latitude>-22.52210988</latitude>
+		<longitude>17.03758658</longitude>
+        <location>Wanaheda</location>
+    </stop>
+	<stop>
+        <id>B38</id>
+        <name>Ramatex bus stop</name>
+		<latitude>-22.54337011</latitude>
+		<longitude>17.03453975</longitude>
+        <location>Khomasdal</location>
+    </stop>
+	<stop>
+        <id>B47</id>
+        <name>Otjomuise (Ramatex) 1</name>
+		<latitude>-22.57762163</latitude>
+		<longitude>17.04837952</longitude>
+        <location>Otjomuise</location>
+    </stop>
+	<stop>
+        <id>B49</id>
+        <name>Rocky crest 1 bus stop</name>
+		<latitude>22.53233268</latitude>
+		<longitude>17.04952635</longitude>
+        <location>Rocky Crest</location>
+    </stop>
+	<stop>
+        <id>B64</id>
+        <name>Academia bus stop</name>
+		<latitude>-22.60725863</latitude>
+		<longitude>17.06908581</longitude>
+        <location>Academia</location>
+    </stop>
+	<stop>
+        <id>B67</id>
+        <name>Unam bus stop</name>
+		<latitude>-22.61358161</latitude>
+		<longitude>17.06009536</longitude>
+        <location>Academia</location>
+    </stop>
+	<stop>
+        <id>B124</id>
+        <name>Parliament bus stop</name>
+		<latitude>-22.5667843</latitude>
+		<longitude>17.08695917</longitude>
+        <location>Klein Windhoek</location>
+    </stop>
+	<stop>
+        <id>B125</id>
+        <name>Robert Mugabe 1 bus stop</name>
+		<latitude>-22.571897506713867</latitude>
+		<longitude>17.088489532470703</longitude>
+        <location>Klein Windhoek</location>
+    </stop>
+	<stop>
+        <id>B126</id>
+        <name>Robert Mugabe 2 bus stop</name>
+		<latitude>-22.577430725097656</latitude>
+		<longitude>17.0915470123291</longitude>
+        <location>Klein Windhoek</location>
+    </stop>
+	<stop>
+        <id>B127</id>
+        <name>Marua mall</name>
+		<latitude>22.581628799438477</latitude>
+		<longitude>17.092727661132812</longitude>
+        <location>Olympia</location></location>
+    </stop>
+	<stop>
+        <id>B131</id>
+        <name>KW 2 bu stop</name>
+		<latitude>-22.5667973</latitude>
+		<longitude>17.10174627</longitude>
+        <location>Klein Windhoek</location>
+    </stop>
+	<stop>
+        <id>B132</id>
+        <name>KW 1 bus stop</name>
+		<latitude>-22.5667973</latitude>
+		<longitude>17.10174627</longitude>
+        <location>Klein Windhoek</location>
+    </stop>
+	<stop>
+        <id>B135</id>
+        <name>Rhino park bus stop</name>
+		<latitude>-22.54549719</latitude>
+		<longitude>17.07521193</longitude>
+        <location>Windhoek-North</location>
+    </stop>
+	<stop>
+        <id>B137</id>
+        <name>KFC (town) bus stop</name>
+		<latitude>-22.569366455078125</latitude>
+		<longitude>17.0822696685791</longitude>
+        <location>CBD</location>
+    </stop>
+	<stop>
+        <id>B141</id>
+        <name>SIA 1 bus stop</name>
+		<latitude>-22.57950439</latitude>
+		<longitude>17.08178963</longitude>
+        <location>Southern Industrial area</location>
+    </stop>
+	<stop>
+        <id>B142</id>
+        <name>Air Namibia bus stop (right)</name>
+		<latitude>-22.57576153</latitude>
+		<longitude>17.0810247</longitude>
+        <location>CBD</location>
+    </stop>
+	<stop>
+        <id>B143</id>
+        <name>Werhnill bus stop</name>
+		<latitude>-22.564250946044922</latitude>
+		<longitude>17.080936431884766</longitude>
+        <location>CBD</location>
+    </stop>
+	<stop>
+        <id>B144</id>
+        <name>Roman catholic hospital bus stop</name>
+		<latitude>-22.5</latitude>
+		<longitude>17.0</longitude>
+        <location>CBD</location>
+    </stop>
+  
+</bus_Stop>
